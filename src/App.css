@@ -1,0 +1,16 @@
+.App{
+    width: 70vw;
+    max-height: 90vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #cac9c9;
+    margin-top: auto;
+}
+
+.buttons-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin: 0 0.5rem 1rem 0.5rem;
+}
